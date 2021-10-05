@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "title": "Web Design",
+        "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.",
+        "img": "https://img.icons8.com/material-outlined/96/000000/web-design.png"
+    },
+    {
+        "key": 2,
+        "title": "Mobile App Developement",
+        "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.",
+        "img": "https://img.icons8.com/dotty/80/000000/medical-mobile-app.png"
+    },
+    {
+        "key": 3,
+        "title": "Video Editing",
+        "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.",
+        "img": "https://img.icons8.com/dotty/50/000000/video-editing.png"
+    },
+    {
+        "key": 4,
+        "title": "Digital Marketing",
+        "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.",
+        "img": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-digital-marketing-digital-marketing-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "key": 5,
+        "title": "SEO Marketing",
+        "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.",
+        "img": "https://img.icons8.com/external-wanicon-lineal-wanicon/64/000000/external-seo-online-marketing-wanicon-lineal-wanicon.png"
+    },
+    {
+        "key": 6,
+        "title": "Content Writing",
+        "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.",
+        "img": "https://img.icons8.com/ios/50/000000/inscription.png"
+    }
+]

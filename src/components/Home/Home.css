@@ -1,0 +1,12 @@
+.img{
+    padding: 20px;
+    background-image: url("../../image/img-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.left{
+    padding: 20px;
+    color: rgb(65, 106, 240);
+    font-size: large;
+}
